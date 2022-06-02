@@ -1,0 +1,21 @@
+{
+  "name": "cors-anywhere-nodejs-example",
+  "version": "0.0.1",
+  "description": "sample cors-anywhere snippet",
+  "license": "MIT",
+  "author": "Author Name <someone@example.com>",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "main": "./example-run-cors-anywhere.js",
+  "dependencies": {
+    "cors-anywhere": "^0.4.4"
+  },
+  "scripts": {
+    "start": "node ./example-run-cors-anywhere.js"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
