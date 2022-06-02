@@ -10,8 +10,3 @@ npm run start
 ```
 
 Then you can access any site by visiting: `http://127.0.0.1/https://example.com`
-
-
-
-# License
-MIT
